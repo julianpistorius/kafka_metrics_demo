@@ -30,6 +30,7 @@ if __name__ == '__main__':
     style.use('fivethirtyeight')
 
     fig = plt.figure()
+    plt.xkcd()
     ax1 = fig.add_subplot(1, 1, 1)
 
     ani = animation.FuncAnimation(fig, animate, interval=1000)
