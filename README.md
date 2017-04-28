@@ -26,13 +26,16 @@ Alternatively if you have Anaconda installed you can just navigate the command l
 jupyter notebook
 ```
 
-# Inspriration or this talk
+# Inspiration for this talk
 
 You will want to read all about Moon Pig. It will change your life!
 
 http://blog.plover.com/prog/Moonpig.html
 
+'I Heart Logs' blog post by Jay Kreps:
 
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
+'Event Sourcing' - which you can think of as 'turning the database inside out' - see Martin Kleppmann:
 
-
+http://martin.kleppmann.com/2015/03/04/turning-the-database-inside-out.html
