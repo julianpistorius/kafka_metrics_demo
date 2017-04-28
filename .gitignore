@@ -2,3 +2,4 @@
 .env2
 .env3
 /metrics.csv
+.ipynb_checkpoints
